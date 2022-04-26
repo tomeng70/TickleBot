@@ -26,4 +26,4 @@ Header pins were soldered to the SparkFun Capacitive Touch sensor to make it eas
 
 <p align="center"><img src="images/headers.jpg" width="400"><br>Header pins and a length of wire were soldered to the sensor</p>
 
-<p align="center"><img src="images/sparkfun_on_breadboard.jpg" width="400"><br>The sensor is installed on breadboard. An alligator clip connects the PAD wire to the ticklebot's leg.</p>
+<p align="center"><img src="images/sparkfun_on_breadboard.jpg" width="400"><br>The sensor is installed onto a breadboard. An alligator clip connects the "PAD" wire to the ticklebot's leg.</p>
