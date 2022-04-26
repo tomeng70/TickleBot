@@ -6,7 +6,7 @@ This repository assumes that you are using an [Arduino microcontroller](https://
 <p align="center"><a href="https://youtu.be/_OVYMaKuV4k"><img src="images/arduino_ticklebot.jpg" width="400"><br>Ticklebot YouTube Video</a></p>
 
 # Constructing the Ticklebot
-[Jasmine Florentine's webpage](https://www.jasmineflorentine.com/) has excellent [detailed instructions](https://www.jasmineflorentine.com/ticklebot) on how to assemble the Ticklebot using card stock and a pair of micro servo motors.
+[Jasmine Florentine's web page](https://www.jasmineflorentine.com/) has excellent [detailed instructions](https://www.jasmineflorentine.com/ticklebot) on how to assemble the Ticklebot using card stock and a pair of micro servo motors.
 
 <p align="center"><a href="https://www.jasmineflorentine.com/ticklebot"><img src="images/jasmine_template.jpg" width="300"><br>Ticklebot Instructions (micro:bit)</a></p>
 
