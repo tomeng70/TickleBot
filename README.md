@@ -8,5 +8,3 @@ This repository assumes that you are using an [Arduino microcontroller](https://
 # Arduino Setup
 There are some slight differences between the micro:bit configuration and the Arduino version of the tickletbot.  
 The micro:bit 
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
