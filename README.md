@@ -15,6 +15,6 @@ For this project, however, I used a [SparkFun Capacitive Touch Sensor breakout b
 
 <img src="images/sparkfun_capacitive.jpg" width="200">
 
-I selected the SparkFun capacitive touch sensor over the DIY sensor in case a student prefers to program their Arduino using the Scratch-based [makeblock mBlock coding platform](https://mblock.makeblock.com/en-us/).
+I selected the SparkFun capacitive touch sensor over the DIY sensor in case a student prefers to program their Arduino using the Scratch-based [mBlock coding platform](https://mblock.makeblock.com/en-us/).
 
 
