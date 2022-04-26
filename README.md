@@ -22,5 +22,8 @@ For this project, however, I used a [SparkFun Capacitive Touch Sensor breakout b
 
 I selected the SparkFun capacitive touch sensor over the DIY sensor in case a student prefers to program their Arduino using the Scratch-based [mBlock coding platform](https://mblock.makeblock.com/en-us/).
 
-Header pins were soldered to the SparkFun Capacitive Touch sensor to make it easier to use the device with a breadboard.  Also, a small segment of wire was soldered to the "PAD" pin of the capacitive touch sensor.  An alligator clip was then used to connect the "PAD" pin to the strip of foil on the understide of the ticklebot's left leg.
+Header pins were soldered to the SparkFun Capacitive Touch sensor to make it easier to use the device with a breadboard.  The touch sensor is installed on a breadboard and then connected to the Arduino using jumper wires. Also, a small segment of wire was soldered to the "PAD" pin of the capacitive touch sensor.  An alligator clip was then used to connect the "PAD" pin to the strip of foil on the understide of the ticklebot's left leg.
 
+<p align="center"><img src="images/headers.jpg" width="400"><br>Header pins and a length of wire were soldered to the sensor</p>
+
+<p align="center"><img src="images/sparkfun_on_breadboard.jpg" width="400"><br>The sensor is installed on breadboard. An alligator clip connects the PAD wire to the ticklebot's leg.</p>
