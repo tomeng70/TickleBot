@@ -16,9 +16,9 @@ The micro:bit device includes a built-in capacitive touch sensor. A typical Ardu
 a capacitive touch sensor.
 
 There is an [Arduino-compatible library](https://github.com/PaulStoffregen/CapacitiveSensor) that can be used to add this touch sensor capability to an Arduino controller.
-For this project, however, I used a [SparkFun Capacitive Touch Sensor breakout board (AT42QT1011)](https://github.com/PaulStoffregen/CapacitiveSensor) instead of building a DIY touch sensor.  
+For this project, however, I used a [SparkFun Capacitive Touch Sensor breakout board (AT42QT1011)](https://www.sparkfun.com/products/14520) instead of building a DIY touch sensor.  
 
-<p align="center"><img src="images/sparkfun_capacitive.jpg" width="200"></p>
+<p align="center"><a href="https://www.sparkfun.com/products/14520"><img src="images/sparkfun_capacitive.jpg" width="200"><br>SparkFun AT42QT1011 Capacitive Touch Sensor</a></p>
 
 I selected the SparkFun capacitive touch sensor over the DIY sensor in case a student prefers to program their Arduino using the Scratch-based [mBlock coding platform](https://mblock.makeblock.com/en-us/).
 
