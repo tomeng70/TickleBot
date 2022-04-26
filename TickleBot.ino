@@ -17,8 +17,8 @@ Servo rightArm;
 // on your ticklebot.
 #define LEFT_MIN 45     // degrees
 #define LEFT_MAX 135    // degrees
-#define RIGHT_MIN 145   // degrees
-#define RIGHT_MAX 55    // degrees
+#define RIGHT_MIN 135   // degrees
+#define RIGHT_MAX 45    // degrees
 
 // change the following #define statements to match the pins in your setup.
 #define LEFT_PIN 6
@@ -26,7 +26,7 @@ Servo rightArm;
 #define TOUCH_PIN 9
 
 // pause period.
-#define PAUSE 200       // msec
+#define PAUSE 250       // msec
 
 void setup() {
   // initialize serial connection (in case user wants to debug system).
