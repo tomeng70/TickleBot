@@ -67,4 +67,4 @@ If you prefer to use the visual [mBlock programming environment](https://mblock.
 # Troubleshooting the System
 If your system doesn't behave as expected, you can check the [circuit diagram](images/Ticklebot_bb.png) to verify that your electrical connections are correct.  You can also use the Arduino [Serial Monitor software](https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor) to view the debug statements from the code. Note that the Arduino IDE version of the code (written in C++) uses a serial baud rate of 9600.  The mBlock version of the code uses a serial baud rate of 115200.
 
-You can also look at the [issues database](https://github.com/tomeng70/TickleBot/issues) for this repository to see if other users had similar problems with their system.  You can also post questions via the issue database if you don't see an answer listed for your problem.
+You can also look at the [issues database](https://github.com/tomeng70/TickleBot/issues) of this repository to see if other users had similar problems with their system.  You can also post questions in the issue database if you don't see an answer listed for your problem.
