@@ -50,3 +50,9 @@ Use the following circuit diagram to connect your components to the Arduino.
 In the circuit diagram above, the SparkFun sensor is depicted as being separate from the breadboard.  This was done for clarity.  For my ticklebot, I used the header pins to install the sensor onto the breadboard, and used jumper wires to connect the device to the appropriate Arduino pins.
 
 <p align="center"><img src="images/sparkfun_on_breadboard_closeup.jpg" width="400"><br>SparkFun sensor installed on breadboard.</p>
+
+# Programming the Ticklebot
+Once you have your ticklebot constructed and wired, you can clone this repository or download the [program file](./TickleBot.ino) and use the Arduino IDE software to install the program onto your Arduino controller.  
+
+
+<p align="center"><a href = "./TickleBot.ino"><img src="images/TickleBotIDE.png" width = 400><br>TickleBot program.</a></p>
