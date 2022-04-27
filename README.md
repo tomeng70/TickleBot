@@ -12,7 +12,7 @@ This repository assumes that you are using an [Arduino microcontroller](https://
   <li>Prepare the <a href = "https://www.sparkfun.com/products/14520">SparkFun Capacitive Touch Sensor</a> for use by soldering header pins and a length of wire to the board.
   <li>Use this <a href="images/Ticklebot_bb.png">circuit diagram</a> to wire the components of your system together.
   <li>Use either the <a href="./TickleBot.ino">text-based version of the TickleBot program</a> or the <a href="images/TickleBotMBlock.png">Scratch (mBlock) version of the program</a> to upload the logic to your Arduino.
-  <li>After upload, touch the robots aluminum-coated foot to tickle it.
+  <li>After upload, touch the robot's aluminum-coated foot to tickle it.
 </ol>
     
 # Constructing the Ticklebot
