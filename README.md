@@ -52,7 +52,13 @@ In the circuit diagram above, the SparkFun sensor is depicted as being separate 
 <p align="center"><img src="images/sparkfun_on_breadboard_closeup.jpg" width="400"><br>SparkFun sensor installed on breadboard.</p>
 
 # Programming the Ticklebot
-Once you have your ticklebot constructed and wired, you can clone this repository or download the [program file](./TickleBot.ino) and use the Arduino IDE software to install the program onto your Arduino controller.  
+Once you have your ticklebot constructed and wired, you can clone this repository or download the [program file](./TickleBot.ino) and use the Arduino IDE software to install the program onto your Arduino controller.  Once you've flashed the program to the Arduino, you should be able to touch the ticklebot's foot (the one with the aluminum sole) and the arms of the bot should move.
 
 
 <p align="center"><a href = "./TickleBot.ino"><img src="images/TickleBotIDE.png" width = 400><br>TickleBot program.</a></p>
+
+If you prefer to use the visual mBlock programming environment (which uses Scratch programming blocks) you can create an Arduino Scratch program using the following screenshot as a guide.
+
+<p align="center"><a href = "images/TicklebotMBlock.png"><img src="images/TicklebotMBlock.png width = 500><br>TickleBot mBlock program.</a></p>
+
+
