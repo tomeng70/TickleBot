@@ -9,7 +9,10 @@ This repository assumes that you are using an [Arduino microcontroller](https://
 <ol>
   
   <li>Use <a href="https://www.jasmineflorentine.com/ticklebot">instructions & template</a> to construct ticklebot from card stock.
-  <li> dddddddddddd  
+  <li>Prepare the <a href = "https://www.sparkfun.com/products/14520">SparkFun Capacitive Touch Sensor</a> for use by soldering header pins and a length of wire to the board.
+  <li>Use this <a href="images/Ticklebot_bb.png">circuit diagram</a> to wire the components of your system together.
+  <li>Use either the <a href="./TickleBot.ino">text-based version of the TickleBot program</a> or the <a href="images/TickleBotMBlock.png">Scratch (mBlock) version of the program</a> to upload the logic to your Arduino.
+  <li>After upload, touch the robots aluminum-coated foot to tickle it.
 </ol>
     
 # Constructing the Ticklebot
@@ -60,3 +63,8 @@ Once you have your ticklebot constructed and wired, you can clone this repositor
 If you prefer to use the visual mBlock programming environment (which uses Scratch programming blocks) you can create an Arduino Scratch program using the following screenshot as a guide.
 
 <p align="center"><a href="images/TickleBotMBlock.png"><img src="images/TickleBotMBlock.png" width="400"><br>mBlock version of program.</a></p>
+
+# Troubleshooting the System
+If your system doesn't behave as expected, you can check the [circuit diagram](images/Ticklebot_bb.png) to verify that your electrical connections are correct.  You can also use the Arduino [Serial Monitor software](https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor) to view the debug statements from the code. Note that the Arduino IDE version of the code (written in C++) uses a serial baud rate of 9600.  The mBlock version of the code uses a serial baud rate of 115200.
+
+You can also look at the [issues database](https://github.com/tomeng70/TickleBot/issues) for this repository to see if other users had similar problems with their system.  You can also post questions via the issue database if you don't see an answer listed for your problem.
