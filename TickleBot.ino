@@ -24,12 +24,13 @@
   * list of conditions and the following disclaimer in the documentation and/or
   * other materials provided with the distribution.
   * 
-  * The name "Thomas Eng" may not be used to endorse or promote products derived 
-  * from this software without specific prior written permission.
+  * Neither the name "Thomas Eng" nor the names of its contributors
+  * may be used to endorse or promote products derived from this software without
+  * specific prior written permission.
   * 
   * NO EXPRESS OR IMPLIED LICENSES TO ANY PARTY'S PATENT RIGHTS ARE GRANTED BY THIS
-  * LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS" AND 
-  * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+  * LICENSE. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS 
+  * "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
   * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
   * DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR
   * ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
