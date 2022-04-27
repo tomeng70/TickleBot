@@ -58,7 +58,3 @@ Once you have your ticklebot constructed and wired, you can clone this repositor
 <p align="center"><a href = "./TickleBot.ino"><img src="images/TickleBotIDE.png" width = 400><br>TickleBot program.</a></p>
 
 If you prefer to use the visual mBlock programming environment (which uses Scratch programming blocks) you can create an Arduino Scratch program using the following screenshot as a guide.
-
-<p align="center"><a href = "images/TicklebotMBlock.png"><img src="images/TicklebotMBlock.png width = 500><br>TickleBot mBlock program.</a></p>
-
-
