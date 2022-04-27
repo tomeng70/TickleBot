@@ -17,7 +17,7 @@ This repository assumes that you are using an [Arduino microcontroller](https://
 
 <p align="center"><a href="https://www.jasmineflorentine.com/ticklebot"><img src="images/jasmine_template.jpg" width="300"><br>Ticklebot Instructions (micro:bit)</a></p>
 
-# Arduino Setup
+# SparkFun Capacitive Touch Sensor
 There are some slight differences between the micro:bit configuration and the Arduino version of the tickletbot.  
 The micro:bit device includes a built-in capacitive touch sensor. A typical Arduino controller does not include
 a capacitive touch sensor.
@@ -33,4 +33,20 @@ Header pins were soldered to the SparkFun Capacitive Touch sensor to make it eas
 
 <p align="center"><img src="images/headers.jpg" width="400"><br>Header pins and a length of wire were soldered to the sensor</p>
 
-<p align="center"><img src="images/sparkfun_on_breadboard.jpg" width="400"><br>The sensor is installed onto a breadboard. An alligator clip connects the "PAD" wire to the ticklebot's leg.</p>
+<p align="center"><img src="images/sparkfun_on_breadboard.jpg" width="400"><img src="images/alligator_clip.jpg" width="400"><br>The sensor is installed onto a breadboard. An alligator clip connects the "PAD" wire to the ticklebot's leg.</p>
+
+# Servo Connections
+Jumper wires are used to connect the Arduino controller to the micro servos that are used to control the ticklebot's arms.
+
+<p align="center"><img src="images/servo_connections.jpg" width="400"><br>Use jumper wires to connect the servos to the Arduino pins.</p>
+
+# Circuit Diagram
+The ticklebot program assumes that the left and right arm servos are connected to digital pins 6 and 5 respectively.  The ticklebot program also assumes that the output pin of the SparkFun capacitive touch sensor is connected to digital pin 9.  
+
+Use the following circuit diagram to connect your components to the Arduino.
+
+<p align="center"><img src="images/Ticklebot_bb.png" ><br>Ticklebot circuit diagram.</p>
+
+In the circuit diagram above, the SparkFun sensor is depicted as being separate from the breadboard.  This was done for clarity.  For my ticklebot, I used the header pins to install the sensor onto the breadboard, and used jumper wires to connect the device to the appropriate Arduino pins.
+
+<p align="center"><img src="images/sparkfun_on_breadboard_closeup.jpg" width="400"><br>SparkFun sensor installed on breadboard.</p>
