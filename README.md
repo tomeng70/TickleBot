@@ -17,7 +17,7 @@ This repository assumes that you are using an [Arduino microcontroller](https://
 
 <p align="center"><a href="https://www.jasmineflorentine.com/ticklebot"><img src="images/jasmine_template.jpg" width="300"><br>Ticklebot Instructions (micro:bit)</a></p>
 
-# Arduino Configuration
+# Arduino Setup
 There are some slight differences between the micro:bit configuration and the Arduino version of the tickletbot.  
 The micro:bit device includes a built-in capacitive touch sensor. A typical Arduino controller does not include
 a capacitive touch sensor.
